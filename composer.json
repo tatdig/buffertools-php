@@ -1,5 +1,5 @@
 {
-  "name": "bitwasp/buffertools",
+  "name": "tatdig/buffertools",
   "description": "Toolbox for working with binary and hex data. Similar to NodeJS Buffer.",
   "license": "MIT",
   "authors": [
